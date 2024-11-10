@@ -1,5 +1,6 @@
 # Sentiment & Aspect Evalution - Instructions
 
+
 Decide whether the summary covers topics that are **relevant** to the target company in relation to ESG. If the information is not important to the target company in terms of ESG, you do not need to fill in the rest of the answers.
 
 **Q:** Is the summary relevant for the company in relation to ESG?
