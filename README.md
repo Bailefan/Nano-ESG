@@ -1,6 +1,6 @@
 ### Nano-ESG: Extracting Corporate Sustainability Information from News Data
 
-This is the supplementary material for the paper Nano-ESG: Extracting Corporate Sustainability Information from News Data.
+This is the supplementary material for the paper [Nano-ESG: Extracting Corporate Sustainability Information from News Data](https://arxiv.org/abs/2412.15093).
 
 In order to run the notebooks, we recommend creating a new environment with python=3.10 . Then, you can install the packages in the requirements.txt file using
 
